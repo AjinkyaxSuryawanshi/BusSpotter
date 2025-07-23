@@ -39,21 +39,19 @@ BusSpotter/
 
 ---
 
+
 ## 🛠️ Tech Stack
 
-**Frontend:**
-
-- ⚛️ React.js
-- 💨 Tailwind CSS
-- 🗺️ Mapbox API
-
-**Backend (Optional):**
-
-- 🐒 Express.js + Node.js  
-- 🛢️ MongoDB (if using persistent login or bus DB)  
-- 🔐 JWT for authentication  
-
----
+| Category       | Technologies Used                     |
+|----------------|----------------------------------------|
+| Frontend       |   ⚛️ React.js,  💨 Tailwind CSS       |
+| Backend        | Node.js, Express.js     🐒              |
+| Authentication | JWT (JSON Web Tokens) 🔐                 |
+| Payment        | Razorpay SDK                           |
+| Mapping        | Mapbox or Google Maps API   🗺️          |
+| Database       | MongoDB + Mongoose       🛢️              |
+| PDF Tools      | PDF.js / AI Summarizer                 |
+| Deployment     | Vercel (Frontend), Render (Backend)    |
 
 ## 🧑‍💻 How It Works
 
